@@ -1,3 +1,3 @@
 Hello, my name is George
 
-I am a developer. I love my job
+I am a DevOps engineer
